@@ -6,7 +6,7 @@
         <SubtypeId>Default</SubtypeId>
     </Id>
   <SunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-  <EnvironmentTexture>Textures\BackgroundCube\Final\Jupiter</EnvironmentTexture>
+  <EnvironmentTexture>Textures\BackgroundCube\Final\Jupiter.dds</EnvironmentTexture>
   <EnvironmentOrientation Yaw="60.3955574" Pitch="-61.1861954" Roll="90.9057846" />
   <EnableFog>false</EnableFog>
   <FogNear>100</FogNear>
@@ -14,9 +14,9 @@
   <FogMultiplier>0.0</FogMultiplier>
   <FogBacklightMultiplier>1</FogBacklightMultiplier>
   <FogColor x="1" y="1" z="1" />
-  <SmallShipMaxSpeed>2380</SmallShipMaxSpeed>
-  <LargeShipMaxSpeed>800</LargeShipMaxSpeed> 
-  <SmallShipMaxAngularSpeed>360</SmallShipMaxAngularSpeed>
-  <LargeShipMaxAngularSpeed>380</LargeShipMaxAngularSpeed>
+  <SmallShipMaxSpeed>2580</SmallShipMaxSpeed>
+  <LargeShipMaxSpeed>1500</LargeShipMaxSpeed> 
+  <SmallShipMaxAngularSpeed>390</SmallShipMaxAngularSpeed>
+  <LargeShipMaxAngularSpeed>385</LargeShipMaxAngularSpeed>
   </Environment>
 </Definitions>
